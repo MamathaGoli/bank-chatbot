@@ -1,0 +1,62 @@
+BANK ACCOUNT INFORMATION
+
+Savings Account
+
+A savings account is a bank account used to safely store money and earn interest.
+
+Basic Requirements:
+- Applicant should provide identity proof.
+- Applicant should provide address proof.
+- Applicant should complete KYC verification.
+
+Common Documents:
+- Aadhaar Card
+- PAN Card
+- Passport-size Photograph
+- Address Proof
+
+Current Account
+
+A current account is mainly used by businesses and organizations for frequent transactions.
+
+Common Requirements:
+- Identity Proof
+- Address Proof
+- PAN Card
+- Business Registration Documents
+- KYC Documents
+
+
+Fixed Deposit
+
+A Fixed Deposit, also called FD, allows customers to deposit money for a fixed period and earn interest.
+
+Important Points:
+- The customer chooses a deposit amount.
+- The customer chooses a fixed tenure.
+- Interest is paid according to the applicable bank rate.
+- Premature withdrawal may be subject to bank rules.
+
+
+Recurring Deposit
+
+A Recurring Deposit, also called RD, allows customers to deposit a fixed amount regularly for a selected period.
+
+Important Points:
+- A fixed amount is deposited every month.
+- Interest is earned according to the applicable bank rate.
+- The maturity amount depends on the deposit amount, tenure, and interest rate.
+
+
+KYC
+
+KYC means Know Your Customer.
+
+KYC is used by banks to verify the identity and address of customers.
+
+Common KYC Documents:
+- Aadhaar Card
+- PAN Card
+- Passport
+- Driving Licence
+- Voter ID

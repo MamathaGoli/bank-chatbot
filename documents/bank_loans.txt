@@ -1,0 +1,80 @@
+BANK LOAN INFORMATION
+
+Personal Loan
+
+A personal loan can be used for personal expenses such as education, medical expenses, travel, weddings, or home requirements.
+
+Basic Eligibility:
+- Age should be between 21 and 60 years.
+- Applicant should have a regular source of income.
+- Applicant should have a valid identity and address proof.
+- Applicant should have a good credit history.
+
+Required Documents:
+- Aadhaar Card
+- PAN Card
+- Address Proof
+- Salary Slips
+- Bank Account Statement
+
+Example Personal Loan:
+Loan Amount: ₹3,00,000
+Interest Rate: 10% per year
+Loan Tenure: 5 years
+
+The actual interest rate and eligibility may vary depending on the applicant and bank policies.
+
+
+Home Loan
+
+A home loan is used to purchase, construct, or renovate a house.
+
+Basic Eligibility:
+- Applicant should be at least 21 years old.
+- Applicant should have a regular income.
+- Applicant should have valid identity and address proof.
+- Applicant should meet the bank's credit requirements.
+
+Required Documents:
+- Aadhaar Card
+- PAN Card
+- Income Proof
+- Salary Slips
+- Bank Statements
+- Property Documents
+
+
+Education Loan
+
+An education loan helps students pay for higher education expenses.
+
+Basic Eligibility:
+- Student should have admission to a recognized educational institution.
+- Parent or guardian may be required as a co-applicant.
+- Required documents must be submitted.
+
+Required Documents:
+- Student ID
+- Aadhaar Card
+- PAN Card
+- Admission Letter
+- Fee Structure
+- Academic Certificates
+- Parent or Guardian Income Proof
+
+
+Car Loan
+
+A car loan is used to purchase a new or used vehicle.
+
+Basic Eligibility:
+- Applicant should meet the bank's age requirement.
+- Applicant should have a regular source of income.
+- Applicant should have valid identity and address proof.
+
+Required Documents:
+- Aadhaar Card
+- PAN Card
+- Income Proof
+- Bank Statement
+- Vehicle Quotation
